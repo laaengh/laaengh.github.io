@@ -1,0 +1,13 @@
+.container__col2 {
+  flex: 1;
+  padding: 20px;
+  background-color: grey;
+}
+
+.container__col2 p {
+  font-size: 1vw;
+  font-weight: 300;
+  letter-spacing: 4px;
+  width: 50%;
+  word-spacing: 3px;
+}
